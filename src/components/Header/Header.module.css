@@ -1,0 +1,21 @@
+.header{
+    background: rgb(82, 218, 105);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+.header img{
+    width: 50px;
+    height: 100%;
+}
+
+.loginBlock{
+    float: right;
+    padding:0 25px;
+}
+
+.loginBlock a {
+    color:white;
+}

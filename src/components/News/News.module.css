@@ -1,0 +1,12 @@
+.nav{
+  width: 10%;
+  background-color: rgb(245, 204, 22);
+}
+
+.item a{
+  color:white;
+}
+
+.item.active a{
+  color: rgb(0, 0, 0);
+}

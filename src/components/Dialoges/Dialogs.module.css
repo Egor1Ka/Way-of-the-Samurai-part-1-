@@ -1,0 +1,25 @@
+.dialogs{
+    display: flex;
+}
+
+.dialogsItems{
+    padding: 10px;
+}
+
+.dialog{
+
+}
+
+.dialogsItems .active {
+    color:gold;
+}
+
+.messages{
+    height: 100%;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.mesage{
+
+}
